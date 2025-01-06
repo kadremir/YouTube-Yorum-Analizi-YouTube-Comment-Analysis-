@@ -6,7 +6,7 @@ English version below
 🔍 Türkçe
 Bu R projesi, YouTube video yorumlarını analiz eden, kelime sıklıklarını hesaplayan ve duygu analizi yapan kapsamlı bir araçtır. R programlama dilinde çok deneyimim olmamasına rağmen, yapay zeka yardımıyla bu projeyi geliştirdim ve başka başlangıç seviyesindeki geliştiricilere de yardımcı olmasını umuyorum.
 🎯 Proje Hakkında
-Bu proje, R programlama dilini öğrenme aşamasında olduğum bir dönemde, yapay zeka (Claude AI) yardımıyla geliştirilmiştir. Kod, YouTube API'sini kullanarak yorum analizi yapmayı amaçlamaktadır ve detaylı açıklamalarla birlikte yazılmıştır.
+Bu proje, R programlama dilini öğrenme aşamasında olduğum bir dönemde, yapay zeka (CURSOR AI) yardımıyla geliştirilmiştir. Kod, YouTube API'sini kullanarak yorum analizi yapmayı amaçlamaktadır ve detaylı açıklamalarla birlikte yazılmıştır.
 🚀 Özellikler
 
 YouTube API üzerinden video arama
